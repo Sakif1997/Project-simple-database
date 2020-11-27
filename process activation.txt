@@ -1,0 +1,49 @@
+Process activities:
+1.Specification and Recurinment analysis
+2.Design and implementation
+3.Validation and testing
+4.EVOLUTION / maintainance
+
+!specification/ requirement analysis:
+two level of detail:
+*easy to understand (high level) requirements for end-users and customers
+*more detailed (low level) system specification for system developers
+
+4main activities:
+1.requirement elicitation and analysis
+2.Requirement specification
+3.Requirement validation
+
+Design and implementation:
+main activities:
+1.Architectural design
+2.database design
+3.interface design
+4.component selection and design
+
+
+validation and testing:
+stages:
+1.component testing
+2.system testing
+3.customer testing
+
+
+Evolution :quite different from original version
+
+
+Agile method:
+focusing more in software rather than design and documentation.
+system requirement rapidly change during development process
+Agile manifesto:
+*individual and interaction over process and tools.
+*working software over discriptive documentation
+*Customer collaboration over contract negociation
+*Responding to change over following a plan
+
+Common principal:
+1.customer involvement
+2.Embrace change
+3.Increment delivery
+3.maintain simplicity
+4.people, not process
